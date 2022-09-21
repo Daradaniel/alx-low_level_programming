@@ -7,3 +7,4 @@ function that changes all lowercase letters of a string to uppercase.
 function that capitalizes all words of a string.
 function that encodes a string into 1337.
 function that encodes a string using rot13.
+function that prints an integer.

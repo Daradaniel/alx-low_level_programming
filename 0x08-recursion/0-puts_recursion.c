@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -18,3 +19,6 @@ _puts_recursion(s + 1);
 else
 _putchar('\n');
 }
+=======
+
+>>>>>>> 2e800e314c431f73061e6f0d91ae600b075e03ee

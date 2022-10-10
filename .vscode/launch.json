@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x0D-preprocessor",
-      "program": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x0D-preprocessor/build/Debug/outDebug",
+      "cwd": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x0E-structures_typedef",
+      "program": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x0E-structures_typedef/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

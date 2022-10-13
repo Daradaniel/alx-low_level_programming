@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x0F-function_pointers",
-      "program": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x0F-function_pointers/build/Debug/outDebug",
+      "cwd": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x10-variadic_functions",
+      "program": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x10-variadic_functions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

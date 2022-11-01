@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x14-bit_manipulation",
-      "program": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x14-bit_manipulation/build/Debug/outDebug",
+      "cwd": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x15. C - File I/O",
+      "program": "c:/Users/VP/Documents/GitHub/alx-low_level_programming/0x15. C - File I/O/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
